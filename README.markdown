@@ -1,7 +1,6 @@
-# Ruby on Rails Tutorial: first application
+# Ruby on Rails Tutorial タスクプラクティス
 
-This is the first application for
+このアプリケーションは 
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/) 
-by [Michael Hartl](http://michaelhartl.com/).
-
-日本語の表示も確認する。
+ を参考に [MellowMoonlight](http://bluemoonpalace.blogspot.com)  が作成しました。
+ 
